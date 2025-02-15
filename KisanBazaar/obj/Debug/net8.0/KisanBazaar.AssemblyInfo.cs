@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KisanBazaar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee55f2ab667dcb3b2c90ecd5f692d3de573e9a51")]
 [assembly: System.Reflection.AssemblyProductAttribute("KisanBazaar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KisanBazaar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

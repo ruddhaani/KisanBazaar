@@ -10,5 +10,7 @@ namespace KisanBazaar.Models
 
         public IEnumerable<Order>? Orders { get; set; }
 
+        public IEnumerable<AppUserRole> UserRoles { get; set; }
+
     }
 }

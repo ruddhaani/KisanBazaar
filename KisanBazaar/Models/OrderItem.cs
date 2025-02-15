@@ -9,5 +9,7 @@ namespace KisanBazaar.Models
         public int OrderId { get; set; }
 
         public int ProductId { get; set; }
+
+        public IEnumerable<Product> Products { get; set; }
     }
 }

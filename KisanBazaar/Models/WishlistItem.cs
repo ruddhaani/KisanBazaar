@@ -7,5 +7,7 @@
         public int WishlistId { get; set; }
 
         public int ProductId { get; set; }
+
+        public IEnumerable<Product> Products { get; set;}
     }
 }
