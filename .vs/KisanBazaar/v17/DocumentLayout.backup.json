@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projects\\KisanBazaar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,14 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,50 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\OrderItem.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:02:48.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Order.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Order.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:01:07.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Product.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Product.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\Product.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:05:28.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ProductImages.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\ProductImages.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\ProductImages.cs",
@@ -125,12 +86,11 @@
               "RelativeToolTip": "KisanBazaar\\Models\\ProductImages.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:08:51.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T04:08:51.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductType.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\ProductType.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\ProductType.cs",
@@ -138,12 +98,11 @@
               "RelativeToolTip": "KisanBazaar\\Models\\ProductType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:07:14.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T04:07:14.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Wishlist.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Wishlist.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\Wishlist.cs",
@@ -151,12 +110,11 @@
               "RelativeToolTip": "KisanBazaar\\Models\\Wishlist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:19:03.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T04:19:03.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WishlistItem.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\WishlistItem.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\WishlistItem.cs",
@@ -164,12 +122,11 @@
               "RelativeToolTip": "KisanBazaar\\Models\\WishlistItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:20:03.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T04:20:03.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\AppUser.cs",
@@ -177,12 +134,11 @@
               "RelativeToolTip": "KisanBazaar\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:25:54.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:25:54.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Data\\DataContext.cs",
@@ -195,72 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\CartItem.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:14:29.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Cart.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Cart.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:13:42.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AppUserRole.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppUserRole.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\AppUserRole.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppUserRole.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\AppUserRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:06:30.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppRole.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppRole.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\AppRole.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppRole.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\AppRole.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T05:09:32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Address.cs",
-              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Address.cs",
-              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Address.cs",
-              "RelativeToolTip": "KisanBazaar\\Models\\Address.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:29:13.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Program.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Program.cs",
@@ -268,11 +159,12 @@
               "RelativeToolTip": "KisanBazaar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:16:19.517Z"
+              "WhenOpened": "2025-02-14T05:16:19.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\appsettings.Development.json",
               "RelativeDocumentMoniker": "KisanBazaar\\appsettings.Development.json",
@@ -280,7 +172,104 @@
               "RelativeToolTip": "KisanBazaar\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-14T04:59:49.63Z"
+              "WhenOpened": "2025-02-14T04:59:49.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Product.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:05:28.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Order.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Order.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:01:07.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\OrderItem.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:02:48.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\CartItem.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:14:29.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Cart.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Cart.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T04:13:42.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUserRole.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppUserRole.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\AppUserRole.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppUserRole.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\AppUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:06:30.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppRole.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\AppRole.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppRole.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\AppRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T05:09:32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "KisanBazaar\\Models\\Address.cs",
+              "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\Address.cs",
+              "RelativeToolTip": "KisanBazaar\\Models\\Address.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:29:13.182Z"
             }
           ]
         }

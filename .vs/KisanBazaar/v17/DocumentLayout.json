@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projects\\KisanBazaar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|solutionrelative:kisanbazaar\\models\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A3D4868-399E-426F-AA5D-DBFA571F325E}|KisanBazaar\\KisanBazaar.csproj|c:\\projects\\kisanbazaar\\kisanbazaar\\models\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "WishlistItem.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\WishlistItem.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\WishlistItem.cs",
@@ -122,11 +122,12 @@
               "RelativeToolTip": "KisanBazaar\\Models\\WishlistItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T04:20:03.356Z"
+              "WhenOpened": "2025-02-15T04:20:03.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Models\\AppUser.cs",
@@ -138,20 +139,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Data\\DataContext.cs",
               "ToolTip": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Data\\DataContext.cs",
               "RelativeToolTip": "KisanBazaar\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T05:01:32.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\Program.cs",
               "RelativeDocumentMoniker": "KisanBazaar\\Program.cs",
@@ -159,12 +160,11 @@
               "RelativeToolTip": "KisanBazaar\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T05:16:19.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T05:16:19.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Projects\\KisanBazaar\\KisanBazaar\\appsettings.Development.json",
               "RelativeDocumentMoniker": "KisanBazaar\\appsettings.Development.json",
